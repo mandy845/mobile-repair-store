@@ -1,0 +1,12 @@
+#contact {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1% 10%;
+}
+
+.contact-details {
+  display: flex;
+}
+
+.contact-details >;
